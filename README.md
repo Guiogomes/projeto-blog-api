@@ -18,7 +18,7 @@ dependências, para isso utilize o comando:
     
 - Para realizar requisições localmente e preencher previamente o banco de dados use os sequintes comandos, respectivamente:
 
-    npm run debug (inicializa servidor local)
+    npm run debug (inicializa servidor local) /
     npm run prestart (cria e preenche o banco de dados)
 
 #### Pastas e divisão
